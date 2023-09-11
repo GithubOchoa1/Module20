@@ -44,14 +44,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 
-<h1>Screenshot:</h1>
-<ul>
-<li> 
-<figure>
-<img src="images/portofolio-wo.jpg" alt="Screenshot" />
+<h2>Screenshot:</h2>
+<img src="assets/images/portofolio.png" alt="My Image"class="portofolio"/> 
 
-</figure>
-<!-- <a> screenshot</a></li> -->
+<a> screenshot</a></li>
 
 
 <h1>Project Link:</h1>
@@ -59,3 +55,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <li> <a href="">
 Link</a></li>
 
+
+
+[def]: image
