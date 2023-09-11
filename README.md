@@ -2,9 +2,13 @@
 React_Portfolio
 
 <h1>Description:</h1>
+Becoming a web developer means joining a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. This Github is to show you a peace of my work and efforts!
 
-
-
+<h1>Table of Contents:💻🛠</h1> 
+#User Story
+#Acceptance Criteria
+#Link
+#Usage
 
 <h1>User Story:</h1>
 AS AN employer looking for candidates with experience building single-page applications
@@ -40,25 +44,10 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 
-<h1>Table of Contents:💻🛠</h1> 
-#Installation
-#User Story
-#Acceptance Criteria
-#Link
-#Usage
+
 
 
 <h2>Screenshot:</h2>
-
-<h1>Screenshot:</h1>
-<<<<<<< HEAD
-<ul>
-<li> <a href="https://github.com/GithubOchoa1/Module20/blob/main/README.md#:~:text=!%5Bimage%5D(https%3A//github.com/GithubOchoa1/Module20/assets/103874328/5a3a6976%2Dc751%2D4605%2D80eb%2D1ea9783faea3)">
-Link</a></li>
-=======
-Link:
-![image](https://github.com/GithubOchoa1/Module20/assets/103874328/5a3a6976-c751-4605-80eb-1ea9783faea3)
->>>>>>> 8296a82e25fb1e5079aa44f32dc7ea15512d1317
 
 
 <h1>Project Link:</h1>
