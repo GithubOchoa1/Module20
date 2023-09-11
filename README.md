@@ -51,9 +51,14 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <h2>Screenshot:</h2>
 
 <h1>Screenshot:</h1>
+<<<<<<< HEAD
 <ul>
 <li> <a href="https://github.com/GithubOchoa1/Module20/blob/main/README.md#:~:text=!%5Bimage%5D(https%3A//github.com/GithubOchoa1/Module20/assets/103874328/5a3a6976%2Dc751%2D4605%2D80eb%2D1ea9783faea3)">
 Link</a></li>
+=======
+Link:
+![image](https://github.com/GithubOchoa1/Module20/assets/103874328/5a3a6976-c751-4605-80eb-1ea9783faea3)
+>>>>>>> 8296a82e25fb1e5079aa44f32dc7ea15512d1317
 
 
 <h1>Project Link:</h1>
