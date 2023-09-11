@@ -46,8 +46,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <h1>Screenshot:</h1>
 <ul>
-<li> <"<img src="assets/images/portofolio-wo.jpg" alt="My Image"class="portofolio-wo"/>
-screenshot</a></li>
+<li> 
+<figure>
+<img src="images/portofolio-wo.jpg" alt="Screenshot" />
+<!-- <a> screenshot</a></li> -->
 
 
 <h1>Project Link:</h1>
