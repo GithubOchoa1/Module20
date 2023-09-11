@@ -44,17 +44,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 
-<h2>Screenshot:</h2>
-<img src="assets/images/portofolio.png" alt="My Image"class="portofolio"/> 
-
-<a> screenshot</a></li>
+<h1>Screenshot:</h1>
 
 
 <h1>Project Link:</h1>
 <ul>
 <li> <a href="">
 Link</a></li>
-
-
-
-[def]: image
