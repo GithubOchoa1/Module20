@@ -49,6 +49,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <li> 
 <figure>
 <img src="images/portofolio-wo.jpg" alt="Screenshot" />
+
+</figure>
 <!-- <a> screenshot</a></li> -->
 
 
