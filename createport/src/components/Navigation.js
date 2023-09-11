@@ -7,7 +7,7 @@ function Navigation(props) {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#experience">Resume</a>
           </li>
           <li>
             <a href="#contact">Contact</a>
