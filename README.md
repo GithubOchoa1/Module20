@@ -45,6 +45,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 <h1>Screenshot:</h1>
+![image](https://github.com/GithubOchoa1/Module20/assets/103874328/5a3a6976-c751-4605-80eb-1ea9783faea3)
+![image](https://github.com/GithubOchoa1/Module20/assets/103874328/d8a64d67-8cfd-4b97-b8a0-2c5da3e322d9)
 
 
 <h1>Project Link:</h1>
