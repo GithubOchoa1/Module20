@@ -49,6 +49,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <h2>Screenshot:</h2>
 
+![portofolio](https://github.com/GithubOchoa1/Module20/assets/103874328/2e0f5ab6-a9fe-43c4-b14a-cbe58aca3a50)
 
 
 <h1>Project Link:</h1>
